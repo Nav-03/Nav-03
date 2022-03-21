@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/github/commit-activity/w/nav-03/nav-03
+
 
 - 🔭 I’m currently working on Safety.Net project
 - 🌱 I’m currently learning Swyft, DJI , OpenCV
