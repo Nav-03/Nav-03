@@ -3,9 +3,10 @@
 
 - 🔭 I’m currently working on Safety.Net project
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on Automation, AI, machine learning
+- 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with expanding my knowledge
 - 💬 I love anything science and space related
+- 🥅 2022 Goals: Learn more and collaborate
 - 📫 How to reach me: navil.gabrie@gmail.com
 - ⚡ Fun fact: "Curiosity killed the cat, Satisfaction brought him back"
 
