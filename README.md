@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning OpenCV and DJI-SDK
+- 🔭 I’m currently practicing python and react
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with expanding my knowledge
